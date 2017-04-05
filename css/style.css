@@ -7,6 +7,10 @@
   height: 75vh;
   border: 2px solid #DAA520;
 }
+
+form {
+  margin: 100px 20px 0 20px;
+}
 /*
 #featurette-divider {
   color: red;
